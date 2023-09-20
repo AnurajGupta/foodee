@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/foodee/static/css/main.2ac5ef30.css",
+    "main.js": "/foodee/static/js/main.2357878e.js",
+    "static/js/787.037499e2.chunk.js": "/foodee/static/js/787.037499e2.chunk.js",
+    "static/media/about-img.jpg": "/foodee/static/media/about-img.3d51e2610081617f061a.jpg",
+    "static/media/menu-3.png": "/foodee/static/media/menu-3.80218c4a94632fc4ce96.png",
+    "static/media/menu-4.png": "/foodee/static/media/menu-4.3b4a6792e8f15dfb0931.png",
+    "static/media/menu-2.png": "/foodee/static/media/menu-2.8d3df0ed15ab49bc9308.png",
+    "static/media/menu-6.png": "/foodee/static/media/menu-6.56294d584dea3af2f06a.png",
+    "static/media/menu-5.png": "/foodee/static/media/menu-5.3d9d08b4caf5bc239364.png",
+    "static/media/menu-1.png": "/foodee/static/media/menu-1.f972bd45189afbee3a7e.png",
+    "static/media/home-bg.jpeg": "/foodee/static/media/home-bg.8987aba0253b9c6307c5.jpeg",
+    "static/media/logo.png": "/foodee/static/media/logo.28a7c81fb6e19fe87f6b.png",
+    "static/media/product-2.png": "/foodee/static/media/product-2.d3391c22394b69703d58.png",
+    "static/media/product-3.png": "/foodee/static/media/product-3.80abee240885f3eabce3.png",
+    "static/media/product-1.png": "/foodee/static/media/product-1.ca74090c36866e811ed8.png",
+    "static/media/pic-1.png": "/foodee/static/media/pic-1.b105fe43e8bf62808d9f.png",
+    "static/media/pic-2.png": "/foodee/static/media/pic-2.5d5e42bfc8bc3622b556.png",
+    "static/media/pic-3.png": "/foodee/static/media/pic-3.1ef1ecba9db4ad9c12c8.png",
+    "static/media/blog-2.jpeg": "/foodee/static/media/blog-2.aad862135a6f55136148.jpeg",
+    "static/media/blog-1.jpeg": "/foodee/static/media/blog-1.065d12567fbfbd854b28.jpeg",
+    "static/media/blog-3.jpeg": "/foodee/static/media/blog-3.facb0a62c6f95b805de3.jpeg",
+    "static/media/cart-item-4.png": "/foodee/static/media/cart-item-4.55373ba7056ffc971050.png",
+    "static/media/cart-item-2.png": "/foodee/static/media/cart-item-2.a126b21895f356e74acd.png",
+    "static/media/cart-item-3.png": "/foodee/static/media/cart-item-3.24f3692350f004b8004a.png",
+    "static/media/cart-item-1.png": "/foodee/static/media/cart-item-1.e96f24935570ab6ca6f6.png",
+    "index.html": "/foodee/index.html",
+    "main.2ac5ef30.css.map": "/foodee/static/css/main.2ac5ef30.css.map",
+    "main.2357878e.js.map": "/foodee/static/js/main.2357878e.js.map",
+    "787.037499e2.chunk.js.map": "/foodee/static/js/787.037499e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ac5ef30.css",
+    "static/js/main.2357878e.js"
+  ]
+}
