@@ -21,6 +21,7 @@ function App() {
       <Contact />
       <Blogs />
       <Footer />
+      {/* just checking */}
     </>
   );
 }
